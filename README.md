@@ -19,9 +19,9 @@ Este perfil reúne o meu portfólio de automação: aqui levo para o código o m
 | Projeto | O que demonstra | Stack |
 |---|---|---|
 | [CatShop: testes de API](https://github.com/rafalopsoa/petshop-cats-api-testing) | 8 cenários GET/POST sobre Mock Server, validação de contrato e schema, casos negativos de regra de negócio e 18 asserções em execução regressiva | Postman, JavaScript, Jira, Zephyr Scale |
-| [ToDoApp](LINK_DO_REPO) | Testes E2E mobile com Robot Pattern, executados em pipeline de CI | Kotlin, Espresso, JUnit, GitHub Actions |
-| [Cafeteria Legal](LINK_DO_REPO) | Testes manuais funcionais com cenários em BDD/Gherkin e matriz de rastreabilidade | Gherkin, Jira, Zephyr Scale |
-| [CatShop 2.0](LINK_DO_REPO) | API construída com TDD e testes de integração em banco real via Testcontainers | NestJS, Prisma, PostgreSQL, Docker, Testcontainers, Zod |
+| [ToDoApp](https://github.com/rafalopsoa/ToDoApp) | Testes E2E mobile com Robot Pattern, executados em pipeline de CI | Kotlin, Espresso, JUnit, GitHub Actions |
+| [Cafeteria Legal](https://github.com/rafalopsoa/qa-site-cafeteria-legal) | Testes manuais funcionais com cenários em BDD/Gherkin e matriz de rastreabilidade | Gherkin, Jira, Zephyr Scale |
+| [CatShop 2.0](https://github.com/rafalopsoa/petshop-cats-api-testing/tree/v2-nestjs-tdd) | API construída com TDD e testes de integração em banco real via Testcontainers | NestJS, Prisma, PostgreSQL, Docker, Testcontainers, Zod |
 
 ## Projetos com TDD no domínio financeiro
 
